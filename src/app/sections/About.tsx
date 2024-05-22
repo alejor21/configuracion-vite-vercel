@@ -3,13 +3,10 @@ const About = () => {
     <section id='about' className='container min-h-screen flex-center'>
       <div className=''>
         <div className='text-center text-balance'>
-          <h3>What I Know</h3>
+          <h3>mis intereses</h3>
           <p className='px-2 mt-3 text-gray-500'>
-            Lorem ipsum, dolor quam recusandae molestias a consectetur illum aut
-            iste dolore. sit amet consectetur adipisicing elit. Dicta eligendi
-            voluptate eos rem maiores voluptas mollitia debitis natus impedit
-            excepturi quasi, quam recusandae molestias a consectetur illum aut
-            iste dolore.
+            me gusta mucho jugar videjuegos, tambien estoy muy wnfocada en las redes sociales, me gusta la edicion de videos y fotografia y me apasiona monta 
+            bicicleta y moto por lo general practico downhill y mx, tambien me gustan mucho los deportes de contacto.
           </p>
         </div>
         <div className='max-w-2xl grid md:grid-cols-1 gap-6 px-2 sm:grid-cols-3 *:text-lg *:sm:max-w-full *:max-w-sm hover:*:brightness-90 *:mx-auto *:sm:text-left *:text-center *:hover:cursor-pointer *:shadow-sm mt-10 mx-auto *:rounded-xl *:bg-gray-100 *:dark:bg-slate-800 *:p-7 *:flex *:md:flex-row *:flex-col *:items-center *:gap-12'>
@@ -17,7 +14,7 @@ const About = () => {
             <div className='*:text-primary'>
               <i className='fa-regular fa-object-ungroup'></i>
               <h6 className='font-semibold whitespace-nowrap mt-3'>
-                Website Design
+                diseños web
               </h6>
             </div>
             <div>
